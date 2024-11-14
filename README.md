@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm TheDeathDragon</h1>
 
-<!--
-**TheDeathDragon/TheDeathDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Android System & Framework
+- 🌱 I’m currently learning Kotlin, C# and more
+- 📫 How to reach me: me@shiro.la
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thedeathdragon&label=Profile%20views&color=0e75b6&style=flat" alt="thedeathdragon" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeathDragon&layout=compact&theme=onedark&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeathDragon&layout=compact&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
+</picture>
+
